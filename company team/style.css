@@ -1,0 +1,208 @@
+#image{
+    margin-left: 80px;
+}
+#main
+{
+    color: gray;
+    float: right;
+    font-size: 12px;
+
+   margin-right: 50px;
+}
+#contact{
+    color: gray;
+    float: right;
+    font-size: 12px;
+    margin-right: 80px;
+}
+#background{
+    background-color: darkblue;
+    width: 1330px;
+    height: 350px;
+}
+#text{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    left: 80px;
+    top: 100px;
+}
+#text2{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    left: 80px;
+    top: 90px;
+}
+#img3{
+    position: relative;
+    left: 950px;
+    bottom: 150px;
+}
+#background2{
+    background-color: seagreen;
+    width: 1330px;
+    height: 280px;
+}
+#faculty{
+    font-size: 10px;
+    margin-left: 80px;
+}
+#main2
+{
+    color: gray;
+    float: right;
+    font-size: 12px;
+
+    margin-right: 50px;
+}
+#contact2{
+    color: gray;
+    float: right;
+
+    font-size: 12px;
+    margin-right: 80px;
+    }
+#item1
+{
+    float: left;
+    border-radius: 10%;
+    margin-right: 20px;
+
+    margin-left: 80px;
+}
+#text3
+{
+    font-size: 12px;
+    float: left;
+    margin-right: 80px;
+}
+#text4
+{
+    font-size: 12px;
+    float: left;
+    margin-left: 80px;
+
+}
+#item2
+{
+    border-radius: 10%;
+    float: right;
+    margin-right: 80px;
+
+    
+}
+#background3
+{
+    background-color: lightgreen;
+    width: 1350px;
+    height: 50px;
+
+}
+#ast3
+{font-size: 14px;
+color: white;}
+#ast2
+{
+    font-size: 14px;
+    position: relative;
+    float: right;
+    margin-right: 80px;
+    color: white;
+}
+#ast
+{
+    font-size: 18px;
+    margin-left: 80px;
+    color: white;
+    float: left;
+
+}
+#background4
+{
+    background-color: lightgray;
+    height: 360px;
+    width: 1350px;
+
+
+}
+#company
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    
+
+}
+#background5
+{
+    float: left;
+    margin-left: 285px;
+    background-color: white;
+    height: 230px;
+    width: 180px;
+    border-radius: 7%;
+
+
+    
+    
+}
+#team1
+{
+ position: relative;
+    right: 0px;
+    top: -9px;
+}
+#tt{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+#tt2
+{
+    font-size: 11px;
+    position: relative;
+    right: -5px;
+    font-weight: bold;
+}
+#left
+{margin-left: 20px;
+    background-color: white;
+    height: 230px;
+    width: 180px;
+    border-radius: 7%;
+float: left;}
+#ct
+{
+    margin-left: 80px;
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+}
+#ct2
+{
+    margin-left: 80px;
+   font-weight: bold;
+}
+#ct3
+{
+    margin-left: 80px;
+    font-size: 14px;
+}
+#ct4
+{
+    float: right;
+margin-right: 80px;
+position: relative;
+top: -110px}
+#ct5
+{ float: right;
+    margin-right: 80px;
+    position: relative;
+    top: 70px;
+    left: 480px;
+    font-size: 13px;
+}
